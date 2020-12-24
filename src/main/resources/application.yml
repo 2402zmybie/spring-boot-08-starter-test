@@ -1,0 +1,4 @@
+hr:
+  hello:
+    prefix: HR
+    suffix: HELLO WORLD
